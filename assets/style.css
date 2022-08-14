@@ -1,0 +1,117 @@
+.btn{
+    padding: 15px;
+}
+
+.btn-xeta{
+    background-color: red;
+    color: white;
+}
+
+
+.header{
+    padding: 45px;
+    text-align: start;
+
+
+}
+
+.header-top{
+    background-color: blue;
+    color: beige;
+    
+}
+
+form{
+
+    background-color: greenyellow;
+    border: 5px solid grey;
+    padding: 20px;
+    border-radius: 10px;   
+    border-style: dotted;
+
+}
+
+
+.number{
+    background-color: lime;
+    color: white;
+    border: 3px solid black;
+    border-radius: 5px; 
+    padding: 10px;    
+
+}
+
+.search{
+    background-color: aquamarine;
+    color: crimson;
+    border: 6px solid;
+    padding: 20px;
+}
+
+
+.fname{
+    background-color: floralwhite;
+    color: darkgrey;
+    padding: 20px;
+    border: 2px dashed rgb(56, 156, 189);  
+}
+
+.reset {
+    background-color: darkcyan;
+    color: beige;
+    padding: 20px;
+    border: 5px solid black;
+}
+
+.main{
+    background-color: purple;
+    color: azure;
+    padding: 10px;
+    border: 3px solid green;
+    padding: 45px;
+    text-align: center;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    border: 1px solid blue;
+    border-style: double;
+    padding: 45px;
+    text-align: center;
+}
+
+ .checkbox {
+    background-color: khaki;
+    color: blueviolet;
+    padding: 5px;
+    border: 3px solid limegreen;
+}
+
+.submit{
+    background-color: chocolate;
+    color: bisque;
+    padding: 10px;
+    border: 3px solid violet;
+    border-style: dashed;
+}
+
+.ul{
+    background-color: aquamarine;
+    color: darkgoldenrod;
+    padding: 5px;
+    border: 2px solide white;
+    border-style: double;
+}
+
+.ol{
+    background-color: brown;
+    color: darkseagreen;
+    padding: 5px;
+    border: 3px solid green;
+
+
+}
+
+
+
